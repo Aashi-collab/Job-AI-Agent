@@ -47,5 +47,3 @@ Cover Letter Agent → Generate content
 Apply Agent → Simulate application
 Interview Agent → Ask questions
 Feedback Agent → Evaluate answers
-
-All agents are orchestrated using LangGraph workflow.
