@@ -15,3 +15,5 @@ pandas
 numpy
 pydub
 sentence-transformers
+torch
+torchvision
